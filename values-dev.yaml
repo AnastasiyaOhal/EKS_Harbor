@@ -1,4 +1,5 @@
-loadBalancer:
+expose:
+    loadBalancer:
     # The name of LoadBalancer service
     name: harbor
     # Set the IP if the LoadBalancer supports assigning IP
